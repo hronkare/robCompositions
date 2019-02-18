@@ -59,7 +59,7 @@ NULL
  
 #' Additive log-ratio transformation
 #' 
-#' The additive log-ratio transformation moves D-part compositional data from
+#' The additive log-ratio transformation maps D-part compositional data from
 #' the simplex into a (D-1)-dimensional real space.
 #' 
 #' The compositional parts are divided by the rationing part before the
